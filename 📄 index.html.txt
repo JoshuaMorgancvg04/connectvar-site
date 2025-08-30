@@ -1,0 +1,296 @@
+📄 index.html
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Connect VAR Group — Qualified Demos for Disruptive Tech Vendors</title>
+  <meta name="description" content="Outsourced SDR for disruptive tech vendors. We run cold email + cold calling with premium data to book qualified demos—so you don't need to hire SDRs. Start with 14 days free." />
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+<header class="header">
+  <div class="container nav">
+    <a href="index.html" class="brand"><img src="assets/logo.svg" alt="Connect VAR Group logo"/> Connect VAR Group</a>
+    <nav>
+      <a href="services.html">Services</a>
+      <a href="process.html">Process</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="case-study.html">Case Study</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a class="btn" href="https://calendly.com/joshua-morgan-connectvargroup/30min" target="_blank">Book Intro Call</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <section class="hero">
+    <span class="kicker">Outsourced SDR engine</span>
+    <h1>Qualified demos for disruptive tech vendors</h1>
+    <p class="lead">Cold email + cold calling to book demos with your ideal customers — so you don't need to hire SDRs. Start with <strong>14 days free</strong>.</p>
+    <div class="hero-cta">
+      <a class="btn" href="https://calendly.com/joshua-morgan-connectvargroup/30min" target="_blank">Get 14 Days Free</a>
+      <a class="btn alt" href="process.html">How it works</a>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container cta-bar">
+    <div>© Connect VAR Group • <a href="mailto:joshua.morgan@connectvargroup.com">joshua.morgan@connectvargroup.com</a></div>
+    <div><a href="legal/privacy.html">Privacy</a> • <a href="legal/terms.html">Terms</a></div>
+  </div>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
+
+📄 services.html
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Services — Connect VAR Group</title>
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+  <link href="styles.css" rel="stylesheet"/>
+</head>
+<body>
+<header class="header">
+  <div class="container nav">
+    <a href="index.html" class="brand"><img src="assets/logo.svg" alt="Logo"/> Connect VAR Group</a>
+    <nav>
+      <a href="services.html">Services</a>
+      <a href="process.html">Process</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="case-study.html">Case Study</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a class="btn" href="https://calendly.com/joshua-morgan-connectvargroup/30min" target="_blank">Book Intro Call</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <section class="hero">
+    <h1>Services</h1>
+    <p class="lead">Everything you need to turn cold prospects into booked demos.</p>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">© Connect VAR Group</div>
+</footer>
+</body>
+</html>
+
+📄 process.html
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Process — Connect VAR Group</title>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+<link href="styles.css" rel="stylesheet"/></head>
+<body>
+<header class="header">
+  <div class="container nav">
+    <a href="index.html" class="brand"><img src="assets/logo.svg"/> Connect VAR Group</a>
+    <nav>
+      <a href="services.html">Services</a>
+      <a href="process.html">Process</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="case-study.html">Case Study</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a class="btn" href="https://calendly.com/joshua-morgan-connectvargroup/30min" target="_blank">Book Intro Call</a>
+    </nav>
+  </div>
+</header>
+<main class="container">
+  <h1>How it works</h1>
+  <p class="lead">Prove value fast, then scale what works.</p>
+</main>
+<footer class="footer">
+  <div class="container">© Connect VAR Group</div>
+</footer>
+</body>
+</html>
+
+📄 pricing.html
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Pricing — Connect VAR Group</title>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+<link href="styles.css" rel="stylesheet"/></head>
+<body>
+<header class="header">
+  <div class="container nav">
+    <a href="index.html" class="brand"><img src="assets/logo.svg"/> Connect VAR Group</a>
+    <nav>
+      <a href="services.html">Services</a>
+      <a href="process.html">Process</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="case-study.html">Case Study</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a class="btn" href="https://calendly.com/joshua-morgan-connectvargroup/30min" target="_blank">Book Intro Call</a>
+    </nav>
+  </div>
+</header>
+<main class="container">
+  <h1>Pricing</h1>
+  <p class="lead">Start with a 14-day proof of value. Then choose the model that fits your stage and goals.</p>
+</main>
+<footer class="footer">
+  <div class="container">© Connect VAR Group</div>
+</footer>
+</body>
+</html>
+
+📄 case-study.html
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Case Study — Connect VAR Group</title>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+<link href="styles.css" rel="stylesheet"/></head>
+<body>
+<header class="header">
+  <div class="container nav">
+    <a href="index.html" class="brand"><img src="assets/logo.svg"/> Connect VAR Group</a>
+    <nav>
+      <a href="services.html">Services</a>
+      <a href="process.html">Process</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="case-study.html">Case Study</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a class="btn" href="https://calendly.com/joshua-morgan-connectvargroup/30min" target="_blank">Book Intro Call</a>
+    </nav>
+  </div>
+</header>
+<main class="container">
+  <h1>Case Study</h1>
+  <p>Driven Commerce (US SaaS). Series A. Founder-led team. We owned outbound, booked 10+ demos, 4 clients closed in month one. Now a pay-per-lead retainer partner. We’re a very new startup — more case studies coming soon.</p>
+</main>
+<footer class="footer">
+  <div class="container">© Connect VAR Group</div>
+</footer>
+</body>
+</html>
+
+📄 about.html
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>About — Connect VAR Group</title>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+<link href="styles.css" rel="stylesheet"/></head>
+<body>
+<header class="header">
+  <div class="container nav">
+    <a href="index.html" class="brand"><img src="assets/logo.svg"/> Connect VAR Group</a>
+    <nav>
+      <a href="services.html">Services</a>
+      <a href="process.html">Process</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="case-study.html">Case Study</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a class="btn" href="https://calendly.com/joshua-morgan-connectvargroup/30min" target="_blank">Book Intro Call</a>
+    </nav>
+  </div>
+</header>
+<main class="container">
+  <h1>About</h1>
+  <p>We believe vendors shouldn’t burn ad spend or hire SDRs before they’re ready. Outbound is the fastest way to traction. Founded by an outbound specialist with full-cycle sales background at a £3B+ SaaS company.</p>
+</main>
+<footer class="footer">
+  <div class="container">© Connect VAR Group</div>
+</footer>
+</body>
+</html>
+
+📄 contact.html
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Contact — Connect VAR Group</title>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+<link href="styles.css" rel="stylesheet"/></head>
+<body>
+<header class="header">
+  <div class="container nav">
+    <a href="index.html" class="brand"><img src="assets/logo.svg"/> Connect VAR Group</a>
+    <nav>
+      <a href="services.html">Services</a>
+      <a href="process.html">Process</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="case-study.html">Case Study</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a class="btn" href="https://calendly.com/joshua-morgan-connectvargroup/30min" target="_blank">Book Intro Call</a>
+    </nav>
+  </div>
+</header>
+<main class="container">
+  <h1>Contact</h1>
+  <p>Email: <a href="mailto:joshua.morgan@connectvargroup.com">joshua.morgan@connectvargroup.com</a></p>
+  <p><a class="btn" href="https://calendly.com/joshua-morgan-connectvargroup/30min" target="_blank">Book Intro Call</a></p>
+</main>
+<footer class="footer">
+  <div class="container">© Connect VAR Group</div>
+</footer>
+</body>
+</html>
+
+📄 legal/privacy.html
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Privacy Policy — Connect VAR Group</title>
+<link href="../styles.css" rel="stylesheet"/></head>
+<body>
+<main class="container">
+<h1>Privacy Policy</h1>
+<p>Your privacy is important. We only use your data to deliver services. We never sell or share it.</p>
+</main>
+</body>
+</html>
+
+📄 legal/terms.html
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Terms of Service — Connect VAR Group</title>
+<link href="../styles.css" rel="stylesheet"/></head>
+<body>
+<main class="container">
+<h1>Terms of Service</h1>
+<p>By working with us, you agree that qualified demo meetings are the core deliverable. Models after the proof of value are set per client.</p>
+</main>
+</body>
+</html>
+
+📄 styles.css
+body{font-family:Arial, sans-serif;background:#0b1223;color:#e2e8f0;margin:0}
+.container{max-width:960px;margin:auto;padding:20px}
+.header{background:#0f172a;padding:10px 0;position:sticky;top:0}
+.nav{display:flex;justify-content:space-between;align-items:center}
+.nav a{color:#e2e8f0;margin:0 10px;text-decoration:none}
+.btn{background:#2563eb;color:white;padding:8px 14px;border-radius:6px;text-decoration:none}
+.btn.alt{background:transparent;border:1px solid #2563eb;color:#2563eb}
+.hero{padding:60px 0}
+h1,h2,h3{color:#fff}
+.lead{color:#cbd5e1}
+.footer{background:#0f172a;color:#94a3b8;padding:20px;text-align:center;margin-top:20px}
+
+📄 script.js
+document.addEventListener('DOMContentLoaded',()=>{
+  console.log("Connect VAR site loaded");
+});
+
+📄 assets/logo.svg
